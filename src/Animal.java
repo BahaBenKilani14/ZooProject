@@ -17,4 +17,10 @@ public class Animal {
         return "Animal [Famille=" + family + ", Nom=" + name + ", Age=" + age + ", Mammifère=" + isMammal + "]";
     }
 
+
+
+
+
+
+
 }
